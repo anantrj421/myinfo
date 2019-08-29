@@ -1,0 +1,150 @@
+li a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
+    margin: 15px 30px 15px 0px;
+}
+
+.nav{
+    background-color: white !important;
+}
+
+.mr-auto{
+    margin-left: 60%;
+}
+
+/* .shape{
+    position: absolute;
+    background-color: #fff591;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    top: 5px;
+    left: 5px;
+    border-radius: 50%;
+}
+
+.inner{
+    position: absolute;
+    background-color: rgb(231, 222, 85);
+    width: calc(100% - 60px);
+    height: calc(100% - 60px);
+    top: 27px;
+    left: 27px;
+    border-radius: 50%;
+}
+
+.last{
+    position: absolute;
+    background-color: white;
+    width: calc(100% - 60px);
+    height: calc(100% - 60px);
+    top: 27px;
+    left: 27px;
+    border-radius: 50%;
+} */
+.row{
+    height: 500px;
+}
+.data{
+    margin: 100px 0px 0px 180px;
+}
+
+.hd{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Livvic', sans-serif;
+    word-spacing: 5px;
+}
+.container{
+    padding-top: 40px;
+}
+#l1{
+    position: absolute;
+    top: 160px;
+    left: 50px;
+}
+#l2{
+    position: absolute;
+    top: 160px;
+    left: 320px;
+}
+#l3{
+    position: absolute;
+    top: 80px;
+    left: 190px;
+}
+#l4{
+    position: absolute;
+    top: 240px;
+    left: 190px;;
+}
+#about .card{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #6c5ce7;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    font-size: 1.5rem;
+    font-family: 'Manjari', sans-serif;
+}
+.n2{
+    background-color: #ff3e6d !important;
+}
+.card img{
+    width: 200px;
+    margin: 30px auto 20px auto;
+    border-radius: 50%;
+}
+
+.card-text h3{
+    margin-top: 40px;
+}
+.fas{
+    margin-right:15px;
+}
+.n3{
+    margin: auto;
+    text-align: center;
+    color: black !important;
+    background-color: white !important;
+    border: none;
+}
+.cont{
+    margin: 0px auto 0px auto;
+}
+.cont img{
+    margin: 0px 30px 0px 30px;
+    width:50px;
+    border-radius: 3px;
+}
+.card-body a{
+    color: #d2fafb;
+}
+.card-body a:hover{
+    color: #51dacf;
+    text-decoration: none;
+}
+#title{
+    font-weight: bold;
+    font-size: 3rem;
+    margin: 30px auto 50px auto;
+    text-align: center;
+}
+.navbar-brand img{
+    margin-left: 60px;
+    height: 50px;
+}
+::-webkit-scrollbar {
+    width: .4em;
+    height: .5em;
+}
+::-webkit-scrollbar-button {
+    background: #ccc
+}
+::-webkit-scrollbar-track-piece {
+    background: #eee
+}
+::-webkit-scrollbar-thumb {
+    background: #888
+}​
